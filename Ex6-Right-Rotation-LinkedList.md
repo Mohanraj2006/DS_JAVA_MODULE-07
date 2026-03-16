@@ -1,7 +1,7 @@
 # Ex6 Right Rotation LinkedList
 # Developed by: MOHAN RAJ C
 # RegisterNumber: 212223040114
-## DATE: 15/03/26
+## DATE: 07/02/26
 ## AIM:
 To write a Java  program to:
 Create a singly linked list.
